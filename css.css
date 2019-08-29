@@ -1,0 +1,40 @@
+#header
+{
+    position: fixed;
+    z-index: 1;
+    height:40px;
+    width: 98%;
+    margin-bottom: 10px
+    }
+table {
+    border:1px dashed black; 
+    tab-size: 5px;
+    width: 60%;
+    background-color: rgb(100, 135, 187); 
+}
+
+td
+{
+    padding: 2px;
+    border: 1px solid #E88741;
+    }
+
+th {
+    text-align: left;
+    border: 1px solid #E88741;
+}
+
+h2 {
+    text-decoration: underline;
+    text-emphasis-style: bold;
+}
+h3 {
+    text-decoration: underline;
+    text-emphasis: bold;
+}
+
+h4 {
+    text-decoration: underline;
+    text-emphasis-style: bold;
+}
+
